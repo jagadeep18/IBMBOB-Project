@@ -1,3 +1,11 @@
+# ── Core dashboard dependencies ────────────────────────────────────────────
 streamlit>=1.32.0
 pandas>=2.0.0
 plotly>=5.18.0
+
+# ── Report generation (build_report.py, inject_screenshots.py) ─────────────
+python-docx>=1.1.0
+
+# ── Screenshot capture (capture_screenshots.py, _debug_scroll.py) ──────────
+playwright>=1.43.0
+Pillow>=10.0.0
