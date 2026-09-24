@@ -757,7 +757,7 @@ This project demonstrates the following technical competencies:
 - **Data-Driven Decision Making** — Dynamic insight generation from live filtered data
 - **Software Engineering** — Clean single-file architecture with caching, defensive data handling
 
----
+<!-- ---
 
 ## License
 
@@ -771,7 +771,7 @@ This project was developed as part of the **Data Analytics with AI** internship 
 
 For questions or contributions, please open an issue or pull request on the repository.
 
----
+--- -->
 
 <p align="center">
   Built with Python · Streamlit · Plotly &nbsp;|&nbsp; IBM Data Analytics with AI Internship
