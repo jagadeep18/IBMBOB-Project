@@ -772,6 +772,10 @@ This project was developed as part of the **Data Analytics with AI** internship 
 For questions or contributions, please open an issue or pull request on the repository.
 
 --- -->
+---
+---
+---
+
 
 <p align="center">
   Built with Python · Streamlit · Plotly &nbsp;|&nbsp; IBM Data Analytics with AI Internship
